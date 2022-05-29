@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1628673344 source:c:\users\lenovo\documents\c++\file handling\main.cpp
+	<iostream>
+	<fstream>
+
